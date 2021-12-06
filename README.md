@@ -15,6 +15,7 @@
 
 ## How to run the project locally:
 To run this project, follow these steps:
+
 1.Install dependencie:
 ```
 npm install
